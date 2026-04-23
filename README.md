@@ -1,5 +1,5 @@
 # CRC-Project-Himanshi-132
-# Java Bank 
+# Java Banking Application
 
 A simple console-based banking app made in Java.
 
